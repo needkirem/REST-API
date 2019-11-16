@@ -1,0 +1,19 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "needkirem",
+  "license": "_",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
